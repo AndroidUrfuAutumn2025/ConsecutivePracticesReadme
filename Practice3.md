@@ -41,6 +41,11 @@
 
 Можно использовать другие библиотеки, если есть опыт.
 
+**Решение должно использовать паттерн проектирования, MVVM при Compose, MVP/MVVM при Views.**
+https://docs.google.com/presentation/d/1vr1eXMZTBEFaYLy2tfzxeeT6dFvnntD9i39A3momRKQ/edit?usp=sharing
+ViewModel https://developer.android.com/topic/libraries/architecture/viewmodel
+Moxy (MVP) https://habr.com/ru/articles/276189/
+
 ### 1. Нижняя навигация
 
 Корневым элементом навигации будет BottomNavigationBar, на первом листе которого будет 
@@ -87,7 +92,7 @@ https://developer.android.com/develop/ui/compose/lists#lazy
 создавайте merge request и прикрепляйте ссылку на него в [таблицу](https://docs.google.com/spreadsheets/d/1XGVff6CDveJeh0Be81Ws4rcxMItN4iWcI6mv3oJt7CY/edit?usp=sharing)
 
 ### Что будет дальше
-В рамках следующих практик (читай - здесь не нужно) вы перепишете ваше решение на MVVM, будете получать данные из сети, 
+В рамках следующих практик (читай - здесь не нужно) вы будете получать данные из сети, 
 запоминать настройки от пользователя. 
 
 ### P.S. 

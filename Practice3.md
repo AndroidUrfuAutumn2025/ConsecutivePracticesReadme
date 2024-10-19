@@ -14,7 +14,7 @@
  
 - Репозитории из Github (https://docs.github.com/en/rest/repos)
 - Фильмы (https://kinopoisk.dev/ https://imdbapi.dev/ etc)
-- *список будет дополняться*
+- Много открытых API: https://github.com/public-api-lists/public-api-lists
 - Свой вариант
 
 Общая схема: имеется список элементов, из него происходит переход к деталям. 

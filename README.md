@@ -32,3 +32,4 @@ https://docs.google.com/spreadsheets/d/1XGVff6CDveJeh0Be81Ws4rcxMItN4iWcI6mv3oJt
 ### Практики
 
 1. [Список с деталями](https://github.com/MobileDevelopmentUrfuAutumn2024/ConsecutivePracticesReadme/blob/main/Practice3.md)
+2. [Работа с сетью](https://github.com/MobileDevelopmentUrfuAutumn2024/ConsecutivePracticesReadme/blob/main/Practice4.md)

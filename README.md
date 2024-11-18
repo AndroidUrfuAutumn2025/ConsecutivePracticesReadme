@@ -35,5 +35,6 @@ https://docs.google.com/spreadsheets/d/1XGVff6CDveJeh0Be81Ws4rcxMItN4iWcI6mv3oJt
 2. [Работа с сетью](https://github.com/MobileDevelopmentUrfuAutumn2024/ConsecutivePracticesReadme/blob/main/Practice4.md)
 3. [Локальное хранение данных](https://github.com/MobileDevelopmentUrfuAutumn2024/ConsecutivePracticesReadme/blob/main/Practice5.md)
 4. [Профиль](https://github.com/MobileDevelopmentUrfuAutumn2024/ConsecutivePracticesReadme/blob/main/Practice6.md)
+5. [Время любимой пары (Уведомления)](https://github.com/MobileDevelopmentUrfuAutumn2024/ConsecutivePracticesReadme/blob/main/Practice7.md)
 
 [Итоговый проект](https://github.com/MobileDevelopmentUrfuAutumn2024/ConsecutivePracticesReadme/blob/main/FinalProject.md)

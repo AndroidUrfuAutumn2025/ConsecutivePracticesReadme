@@ -15,7 +15,7 @@
 Теперь можно приступать к заданиям из списка в конце этого текста.
 
 Созданный проект пушится в Github, а ссылка на него прикрепляется в Ведомость:
-https://docs.google.com/spreadsheets/d/1XGVff6CDveJeh0Be81Ws4rcxMItN4iWcI6mv3oJt7CY/edit?usp=sharing
+[https://docs.google.com/spreadsheets/d/1XGVff6CDveJeh0Be81Ws4rcxMItN4iWcI6mv3oJt7CY/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1Yw3AUDWDdssG-uzd_RPS2QKrFUmnEyj6WA3tBETeYcU/edit?gid=0#gid=0)
 (Лист Github, столбец "Ссылка на репо с практиками")
 
 Перед началом каждой практики стартуется новая ветка (practice3 и т.д.). 

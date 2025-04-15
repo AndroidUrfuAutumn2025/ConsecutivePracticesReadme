@@ -36,5 +36,6 @@
 3. [Локальное хранение данных](https://github.com/MobileDevelopmentUrfuAutumn2024/ConsecutivePracticesReadme/blob/main/Practice5.md)
 4. [Профиль](https://github.com/MobileDevelopmentUrfuAutumn2024/ConsecutivePracticesReadme/blob/main/Practice6.md)
 5. [Время любимой пары (Уведомления)](https://github.com/MobileDevelopmentUrfuAutumn2024/ConsecutivePracticesReadme/blob/main/Practice7.md)
+6. [Многомодульность](https://github.com/AndroidDevelopmentUrfuSpring25/ConsecutivePracticesReadme/blob/main/Practice%208.md)
 
 [Итоговый проект](https://github.com/MobileDevelopmentUrfuAutumn2024/ConsecutivePracticesReadme/blob/main/FinalProject.md)

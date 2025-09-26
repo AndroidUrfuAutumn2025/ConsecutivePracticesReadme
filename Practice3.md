@@ -21,7 +21,7 @@
 
 В рамках этой практики вам не нужно будет реализовывать обращение к сервисам. Подготовим 
 экраны для этих запросов. Определите данные, которые можно получить, посмотрите, что вы вынесете
-в список, а что - в экран деталей. 
+в список, а что - в экран деталей. В рамках этой практики данные грузить не надо, только подготовить модели и интерфейс (на моковых данных)
 
 ### На чем пишем 
 В прошлой практике вы попробовали views и compose. Здесь выбор за вами, что использовать, но
@@ -38,6 +38,7 @@
 *Compose:*
 - navigation-compose https://developer.android.com/develop/ui/compose/navigation
 - Modo https://github.com/ikarenkov/Modo
+- Navigation 3 https://developer.android.com/guide/navigation/navigation-3
 
 Можно использовать другие библиотеки, если есть опыт.
 
@@ -89,12 +90,8 @@ https://developer.android.com/develop/ui/compose/lists#lazy
 ### Сдача 
 Прикрепите запись экрана, где будет показана работа нижней навигации (переключение экранов),
 работа списка, переход на экран деталей и обратно. Работайте в отдельной ветке, 
-создавайте merge request и прикрепляйте ссылку на него в [таблицу](https://docs.google.com/spreadsheets/d/1XGVff6CDveJeh0Be81Ws4rcxMItN4iWcI6mv3oJt7CY/edit?usp=sharing)
+создавайте merge request и прикрепляйте ссылку на него в [таблицу](https://docs.google.com/spreadsheets/d/14sYlIETeD42pZADhAp7ehKcnl5Ms2v2hhikR6PAkIO8/edit?usp=sharing)
 
 ### Что будет дальше
 В рамках следующих практик (читай - здесь не нужно) вы будете получать данные из сети, 
 запоминать настройки от пользователя. 
-
-### P.S. 
-Есть более подробный [гайд](https://github.com/Mobile-Development-Course-LAB-USUE/MobileDevelopmentCourseLabApp?tab=readme-ov-file#2-%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B0-%D1%81%D0%BF%D0%B8%D1%81%D0%BE%D0%BA) 
-с другого потока - но только на views (см. пункты список и карточка)

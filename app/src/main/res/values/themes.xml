@@ -1,0 +1,9 @@
+<resources>
+    <style name="Theme.RickAndMorty" parent="android:style/Theme.Material.Light.NoActionBar">
+        <item name="android:fontFamily">sans</item>
+        <item name="android:colorAccent">#4A8B61</item>
+        <item name="android:navigationBarColor">#F4F7F2</item>
+        <item name="android:statusBarColor">#F4F7F2</item>
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+</resources>

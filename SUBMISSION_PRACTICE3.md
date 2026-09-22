@@ -20,3 +20,7 @@
 4. Открыть карточку персонажа, прокрутить детали и вернуться назад.
 
 Сборка: `gradlew.bat testDebugUnitTest assembleDebug`.
+
+## Запись работы
+
+[Смотреть демонстрацию приложения (WebM)](docs/practice3-demo.webm)

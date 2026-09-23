@@ -15,7 +15,7 @@
 Теперь можно приступать к заданиям из списка в конце этого текста.
 
 Созданный проект пушится в Github, а ссылка на него прикрепляется в Ведомость:
-[https://docs.google.com/spreadsheets/d/14sYlIETeD42pZADhAp7ehKcnl5Ms2v2hhikR6PAkIO8/edit?usp=sharing](https://docs.google.com/spreadsheets/d/10Apr5Xiyydo7U4O7x2MdDS2OQenah9TEcYdbZ2iJE5I/edit?usp=sharing)
+[[https://docs.google.com/spreadsheets/d/14sYlIETeD42pZADhAp7ehKcnl5Ms2v2hhikR6PAkIO8/edit?usp=sharing](https://docs.google.com/spreadsheets/d/10Apr5Xiyydo7U4O7x2MdDS2OQenah9TEcYdbZ2iJE5I/edit?usp=sharing)](https://docs.google.com/spreadsheets/d/1AcwfbfifEnvmcX4o0aYi-N8YtQyYF3oTi2JHs8B9gRo/edit?usp=sharing)
 (Лист Github, столбец "Ссылка на репо с практиками")
 
 Перед началом каждой практики стартуется новая ветка (practice3 и т.д.). 
@@ -38,4 +38,4 @@
 5. [Время любимой пары (Уведомления)](https://github.com/MobileDevelopmentUrfuAutumn2024/ConsecutivePracticesReadme/blob/main/Practice7.md)
 6. [Многомодульность](https://github.com/AndroidDevelopmentUrfuSpring25/ConsecutivePracticesReadme/blob/main/Practice%208.md)
 
-[Итоговый проект](https://github.com/MobileDevelopmentUrfuAutumn2024/ConsecutivePracticesReadme/blob/main/FinalProject.md)
+[Итоговый проект](https://github.com/MobileDevelopmentUrfuAutumn2024/ConsecutivePracticesReadme/blob/main/FinalProject.md) (не для всех, только для трека проектов)

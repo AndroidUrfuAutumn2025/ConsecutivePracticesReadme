@@ -10,14 +10,8 @@
 - Навигация и передача данных между экранами
 
 ### Выбор предметной области
-Выберите вариант практики:
- 
-- Репозитории из Github (https://docs.github.com/en/rest/repos)
-- Фильмы (https://kinopoisk.dev/ https://imdbapi.dev/ etc)
-- Много открытых API: https://github.com/public-api-lists/public-api-lists
-- Свой вариант
-
-Общая схема: имеется список элементов, из него происходит переход к деталям. 
+Выберите вариант практики в ведомости на листе "API" - там есть список открытых данных, выбирайте понравившуюся предметную область. 
+У api общая схема: имеется список элементов, из него происходит переход к деталям. 
 
 В рамках этой практики вам не нужно будет реализовывать обращение к сервисам. Подготовим 
 экраны для этих запросов. Определите данные, которые можно получить, посмотрите, что вы вынесете
@@ -42,7 +36,7 @@
 
 Можно использовать другие библиотеки, если есть опыт.
 
-**Решение должно использовать паттерн проектирования, MVVM при Compose, MVP/MVVM при Views.**
+**Решение должно использовать паттерн проектирования, MVVM/MVI при Compose, MVP/MVVM при Views.**
 https://docs.google.com/presentation/d/1vr1eXMZTBEFaYLy2tfzxeeT6dFvnntD9i39A3momRKQ/edit?usp=sharing
 ViewModel https://developer.android.com/topic/libraries/architecture/viewmodel
 Moxy (MVP) https://habr.com/ru/articles/276189/
@@ -75,6 +69,8 @@ https://developer.android.com/develop/ui/views/layout/recyclerview
 https://metanit.com/kotlin/jetpack/2.6.php
 
 https://developer.android.com/develop/ui/compose/lists#lazy
+
+Можете сделать подготовку под пагинацию.
 
 ### 3. Экран с деталями
 
